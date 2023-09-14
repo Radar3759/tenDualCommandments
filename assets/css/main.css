@@ -2052,3 +2052,7 @@ input, select, textarea {
 		#footer .copyright a {
 			color: inherit;
 		}
+
+span {
+	font-family: sans-serif;
+}
