@@ -1785,8 +1785,9 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #1106ac;
 		font-size: 3.5em;
+		
 	}
 
 		header.major h2 + p {
@@ -2700,7 +2701,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #1106ac;
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
