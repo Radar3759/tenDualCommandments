@@ -70,7 +70,7 @@
 									<h3>Things You Don't Exactly Learn in Boarding School</h3>
 									<p>Number of men who died because Lee was inexperienced and ruinous: <span id="lee"></span></p>
 									<ul class="feature-icons">
-										<li class="icon solid fa-code"><a href="#num-one">Number One</a></li>
+										<li class="icon i class fa-regular fa-hand"><a href="#num-one">Number One</a></li>
 										<li class="icon solid fa-cubes"><a href="num-six">Number Six</a></li>
 										<li class="icon solid fa-book">Number Two</li>
 										<li class="icon solid fa-coffee">Seven!</li>
@@ -227,6 +227,18 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="https://kit.fontawesome.com/dc967f27c4.js" crossorigin="anonymous"></script>
 
+			<script>
+				let counts = setInterval(updated, 3000);
+				let upto = 150;
+				function updated() {
+					let count = document.getElementById("lee") 
+					count.innerHTML = ++upto;
+					if(upto === 1000) {
+						clearInterval(counts);
+					}
+				}
+			</script>
 	</body>
 </html>
