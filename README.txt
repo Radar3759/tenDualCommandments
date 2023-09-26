@@ -6,6 +6,7 @@ Hamilton is my jam.
 
 TODO
 -add alt text
+-hide <h2> on media query
 -remove un-needed <a> placeholders
 -graphics full - DONE
 -style full graphics text - DONE
