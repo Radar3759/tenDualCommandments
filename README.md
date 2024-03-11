@@ -1,7 +1,6 @@
 
 # Ten Dual Commandments
 
-
 ## Purpose
 *This is a for fun project to add to my developer portfolio. 
 I began with a theme and modified it to suit the project. 
@@ -11,6 +10,8 @@ Hamilton is my jam.*
 - HTML5
 - CSS
 - Javascript
+- formspree.io 
+
 
 ## To-Do List
 - ~~add alt text~~
