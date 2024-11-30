@@ -1,5 +1,5 @@
 
-# [Ten Dual Commandments](https://radar3759.github.io/tenDualCommandments/)
+# [Ten Duel Commandments](https://radar3759.github.io/tenDuelCommandments/)
 
 ## Purpose
 *This is a for fun project to add to my developer portfolio. 
